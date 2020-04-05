@@ -12,5 +12,6 @@ I am a fifth-year Ph.D. student at Univerity of Washington, advised by [Prof. Er
 
 Contact
 ======
-Email: yaxuanzh@uw.edu
-Address: Fluke hall, 4000 Mason Rd, University of Washington, Seattle, WA 98195
+**Email**: yaxuanzh@uw.edu
+
+**Address**: Fluke hall, 4000 Mason Rd, University of Washington, Seattle, WA 98195
