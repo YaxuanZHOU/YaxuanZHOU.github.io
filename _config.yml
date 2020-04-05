@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yaxuan Zhou"
-  avatar           : "profile.jpg"
+  avatar           : "profile2.jpg"
   bio              : "PhD candidate, Electrical and Computer Engineering, Univ. of Washington"
   location         : "Seattle, WA, USA"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yaxuan-zhou-yz0825/"
+  linkedin         : "https://www.linkedin.com/in/yaxuan-zhou-yz0825"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
