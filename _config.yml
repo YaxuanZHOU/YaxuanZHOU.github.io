@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yaxuan Zhou"
   avatar           : "profile2.jpg"
-  bio              : "PhD candidate, Electrical and Computer Engineering, Univ. of Washington"
+  bio              : "PhD candidate, Univ. of Washington"
   location         : "Seattle, WA, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Xka8ijMAAAAJ&hl=en"
-  email            :
+  email            : "yaxuanzh@uw.edu"
   researchgate     : "https://www.researchgate.net/profile/Yaxuan_Zhou" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
