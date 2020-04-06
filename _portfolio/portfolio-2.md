@@ -1,7 +1,7 @@
 ---
 title: "Endoscope and AR system for imaging of dental decay"
 excerpt: "In this work, we developed an advanced endoscope system for dental decay imaging; an AR-based visualization system that can help train the dentists to use such newly developed systems; and lastly an AR-based guidance system so that dentists or general users can easily use the endoscope.<br/><img src='/images/YZ-dentAR-2.png'>"
-collection: research
+collection: portfolio
 ---
 
 Untreated dental decay is the most prevalent dental problem in the world. But there are problems of current tooth decay management. Once the decay develops to an irreversible stage, you would need to drill and fill the tooth with restorative material or even need a root canal treatment, which is expensive and destructive. Thus ideally, we should detect the early-stage decay and heal it before it’s too late. However, decay detection methods in the clinics, such as visual and tactile examination or x-ray are not reliable on early decays. And also, when dentists prescribe instructions on cleaning or medicine for a long-term therapy, there is no way to monitor the dental condition between the limited times of visits to clinics.
