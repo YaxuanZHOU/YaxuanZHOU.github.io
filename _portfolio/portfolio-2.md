@@ -11,12 +11,14 @@ Due to these problems, there are advanced imaging system under development that 
 With the above needs in mind, we developed the dentAR system shown in the following diagram. 
 
 <p align="center">
-  <img src="/images/YZ-dentAR-1.png" width="350" title="hover text">
+  <img src="/images/YZ-dentAR-1.png" title="diagram of dentAR system">
 </p>
 
 Advanced 3D imaging system such as the OCT can get the volumetric view of the tooth condition, however, the system is costly and fragile, also a good 3D scan requires expert operation and may take tens of minutes. Thus it should be used in high-resource dental clinics during an one-time and thorough examination for diagnosis of all suspicious teeth. We generate the virtual display of the 3D image in AR headset, then with the 3D scan of tooth, dentists can spot suspicious decay areas which then can be used for generating a virtual guidance for the 2D imaging of the decay. 2D imaging can quickly examine the tooth from a certain view and thus can also be used by non-expert users for monitoring of tooth decay condition. The only concern here is that the user needs to image the tooth from  exactly the same view angle during the repeated imaging, which would be hard without any guidance., Thus AR-based guidance can help users localize the 2D imaging scope at the desired perspective every time. And since we used the 3D image for generating the virtual guidance, we can also display the acquired 2D image in the AR headset and registering it with the 3D image using the spatial relation between the two, which would help dentists better interpret the multi-modal data. 
 
-
+<p align="center">
+  <img src="/images/YZ-dentAR-2.png" title="illustration of AR-based visualization, guidance and fused 2D-3D dental images">
+</p>
 
 
 
