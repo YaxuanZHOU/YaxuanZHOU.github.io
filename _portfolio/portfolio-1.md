@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "3D reconstruction of human organ from endoscope video"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
