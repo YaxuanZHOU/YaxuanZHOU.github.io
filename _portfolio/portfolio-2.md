@@ -1,6 +1,6 @@
 ---
 title: "Endoscope and AR system for imaging of dental decay"
-excerpt: "In this work, we developed an advanced endoscope system for dental decay imaging; an AR-based visualization system that can help train the dentists to use such newly developed systems; and lastly an AR-based guidance system so that dentists or general users can easily use the endoscope.<br/><img src='/images/YZ-dentAR-2.png'>"
+excerpt: "In this work, we developed an advanced endoscope system for dental decay imaging; an AR-based visualization system that can help train the dentists to use such newly developed systems; and lastly an AR-based guidance system so that dentists or general users can easily use the endoscope. [Click the title for more details]<br/><img src='/images/YZ-dentAR-2.png'>"
 collection: portfolio
 ---
 
