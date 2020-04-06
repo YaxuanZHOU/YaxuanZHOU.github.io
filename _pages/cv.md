@@ -8,52 +8,47 @@ redirect_from:
 ---
 
 {% include base_path %}
+You can download my detailed CV [here](https://drive.google.com/file/d/18dKWZ2GhzJclrxPxLdu4MlJA3VlOBouz/view?usp=sharing).
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+-------------
+* B.S. in Information Engineering, graduated with honor (top 5%), Zhejiang University, 2015
+* M.S. in Electrical Engineering, Univ. of Washington, 2018
+* M.S. in Applied Mathematics, Univ. of Washington, 2018
+* Ph.D in Electrical and Computer Engineering, Univ. of Washington, 2021 (expected)
+  
+Research Interests
+-------------
+Deep learning for image or data processing & analysis; Computer vision including but not limited to 3D reconstruction, image segmentation and classification.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+-------------
+* Programming:
+    * Language: Python, C/C++, Matlab, Assemble language, Verilog, C#, Java
+    * Framework: PyTorch, Tensorflow, COLMAP, OpenCV
+    
+* Tools: MeshLab, Unity, LaTex, Zemax, ImageJ, Amira/Avizo, CAD/machining, electronics
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Extensive knowledge and skills in image processing, computer vision, optics and medical device prototyping
+
+* General knowledge and skills in deep learning, artificial intelligence, probability and statistics, graphical model, linear system theory, optimization, signal processing
+
+Honors & Awards
+-------------
+2018                        NSF Industry Internship Fellowship          
+2015                        Excellent Undergraduate in Zhejiang Province (TOP 1%), Excellent Undergraduate in Zhejiang University         
+2014, 2013, 2012    Department Academic Scholarship         
+2014, 2013, 2012    Excellent Student Awards, Excellent Student Cadre, Outstanding Individual of Student Association  
+2014                        Sunny Optical Technology (Group) corporation Enterprise Scholarship                 
+2013                        Runner-up for Energy-saving Technology Translational Competition    
+
+Outreach
+-------------
+2017            FIUT K-12 pen pal program for international culture connection                                        
+2013-2015   News letter correspondent for departmental blog                                                              
+2013-2014   Director of Student Play, won runner-up award in Undergraduate Play Competition         
+2012-2014   Volunteer in Handicapped children rehabilitation center, Hangzhou zoo, bus station        
+2013            Member of chairman team of Zhejiang University Pan-Yangtze River Delta area model UN Conference        
+2012            Social practice: assistance to improve schooling in rural areas                                         
+

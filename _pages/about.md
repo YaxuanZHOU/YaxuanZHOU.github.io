@@ -17,6 +17,8 @@ Update
 -------------
 2020.4: I started internship in [Ver Avanti](https://veravanti.com/) with the [NSF industry internship fellowship](https://www.nsf.gov/pubs/2018/nsf18102/nsf18102.jsp).
 
+2020.3: I passed my PhD General Exam. One last sprint to start my thesis and graduate after one more year!
+
 2020.2: This summer, I will join [Facebook Reality Lab, Redmond](https://research.fb.com/category/augmented-reality-virtual-reality/) as research intern.
 
 Contact
