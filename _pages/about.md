@@ -15,7 +15,9 @@ Previously, I completed my B.S. in optical science and engineering at [Zhejiang 
 
 Update
 -------------
-This summer, I will be working as a research intern in Facebook Reality Lab, Redmond.
+2020.4: I started internship in [Ver Avanti](https://veravanti.com/) with the [NSF industry internship fellowship](https://www.nsf.gov/pubs/2018/nsf18102/nsf18102.jsp).
+
+2020.2: This summer, I will join [Facebook Reality Lab, Redmond](https://research.fb.com/category/augmented-reality-virtual-reality/) as research intern.
 
 Contact
 -------------
