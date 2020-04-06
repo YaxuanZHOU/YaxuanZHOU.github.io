@@ -1,7 +1,7 @@
 ---
 title: "Endoscope and AR system for imaging of dental decay"
 excerpt: "In this work, we developed an advanced endoscope system for dental decay imaging; an AR-based visualization system that can help train the dentists to use such newly developed systems; and lastly an AR-based guidance system so that dentists or general users can easily use the endoscope.<br/><img src='/images/YZ-dentAR-2.png'>"
-collection: portfolio
+collection: research
 ---
 
 Untreated dental decay is the most prevalent dental problem in the world. But there are problems of current tooth decay management. Once the decay develops to an irreversible stage, you would need to drill and fill the tooth with restorative material or even need a root canal treatment, which is expensive and destructive. Thus ideally, we should detect the early-stage decay and heal it before it’s too late. However, decay detection methods in the clinics, such as visual and tactile examination or x-ray are not reliable on early decays. And also, when dentists prescribe instructions on cleaning or medicine for a long-term therapy, there is no way to monitor the dental condition between the limited times of visits to clinics.
@@ -30,7 +30,13 @@ Reference
 
 1.  Lee, R., ***Zhou Y.*** et. al., Near-infrared imaging of artificial enamel caries lesions with a scanning fiber endoscope. Sensors, 19(6), 2019. [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6471210/pdf/sensors-19-01419.pdf)]
 
- 
+1. A. Rajiv, ***Y. Zhou***, J. Ridge, P. G. Reinhall, E. J. Seibel, Electromechanical model-based design and testing of fiber scanners for endoscopy, Journal of Medical Devices 12 (4), 2018 [[paper](https://asmedigitalcollection.asme.org/medicaldevices/article/366205/Electromechanical-Model-Based-Design-and-Testing)]
+
+1. ***Y. Zhou***, R. Lee, S. Finkleman, A. Sadr, E. J. Seibel, Near-infrared endoscopic imaging of deep artificial approximal lesions in extracted teeth, SPIE Photonics West Proceeding, Lasers in Dentistry XXV 10857, 108570I, 2019 [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10857/108570I/Near-infrared-endoscopic-imaging-of-deep-artificial-approximal-lesions-in/10.1117/12.2510310.full?webSyncID=9a0ce46e-9e6e-c7a4-9dab-6a0cbad05932&sessionGUID=9ad883c9-d902-bc99-93ce-d268bead49a2)]
+
+1. ***Y. Zhou***, R. Lee, A. Sadr, E. J. Seibel, Near-infrared dental imaging using scanning fiber endoscope, SPIE Photonics West Proceeding, Lasers in Dentistry XXIV 10473, 1047308, 2018 [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10473/1047308/Near-infrared-dental-imaging-using-scanning-fiber-endoscope/10.1117/12.2295080.full?sessionGUID=3c9d902b-c999-3ced-268b-ead49a28531a&webSyncID=46e9e6ec-7a49-dab6-a0cb-ad059329ad88&sessionGUID=3c9d902b-c999-3ced-268b-ead49a28531a&SSO=1)]
+
+1. ***Y. Zhou***, Y. Jiang, A. S. Kim, Z. Xu, J. H. Berg, E. J. Seibel, Developing laser-based therapy monitoring of early caries in pediatric dental settings,  SPIE Photonics West Proceeding, Lasers in Dentistry XXIII 10044, 100440D, 2017 [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10044/100440D/Developing-laser-based-therapy-monitoring-of-early-caries-in-pediatric/10.1117/12.2256533.full?sessionGUID=d883c9d9-02bc-9993-ced2-68bead49a285&webSyncID=0ce46e9e-6ec7-a49d-ab6a-0cbad059329a&sessionGUID=d883c9d9-02bc-9993-ced2-68bead49a285)]
 
 
 
